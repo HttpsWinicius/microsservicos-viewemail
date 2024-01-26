@@ -4,7 +4,7 @@ Este projeto consiste em um microsserviço de *API Rest* desenvolvida em *Java 1
 
 Para acessar o serviço de disparo de e-mail:
 
-[![GitHub license](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HttpsWinicius/microsservicos-viewemail)
+[![GitHub license](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HttpsWinicius/microsservicos-sendemail)
 
 O endpoint principal é denominado **/view/email?email_id=**.
 
